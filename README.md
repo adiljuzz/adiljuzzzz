@@ -17,7 +17,7 @@
 <body>
     <p>Аты Калымхан Адилхан </p>
     <p>Phylosophi</p>
-    <a href="https://https://adilkhanqalymkhan.wixsite.com/adil">Электрондық партфолия</a>
+    <a href="https://adilkhanqalymkhan.wixsite.com/adil">Электрондық партфолия</a>
     <h1>Kalymkhan Adilkhan</h1>
     <img src="Adilkhan.jpeg" alt="Kalymkhan Adilkhan">
     
